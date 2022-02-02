@@ -1,30 +1,24 @@
-# Análise de dados: Reclamações de consumidores com empresa de telecomunicações
+# Análise de dados: Falsificação de cédulas de Real (R$)
 
-Projeto de análise de reclamações de consumidores com empresa de telecomunicações no 1º semestre de 2021 com base nos dados (.csv) do site [consumidor.gov.br](https://www.consumidor.gov.br) disponibilizados pelo [Portal de dados do Ministério da Justiça](http://dados.mj.gov.br/).
+Projeto de análise de falsificação de cédulas de Real (R$) desde 1995 até 2020 com base nos dados (.csv) do portal de [Dados Abertos](https://dadosabertos.bcb.gov.br/) disponibilizados pelo [Banco Central do Brasil](https://www.bcb.gov.br/).
 
-## Demanda do negócio
+## Demanda da análise
 
-- Identificar público com maior insatisfação
-- Reduzir o número de reclamações
-- Reduzir o tempo para solução do problema
-- Obter a melhor nota em atendimento
-- Identificar os motivos das reclamações
+- Demonstrar a evolução das falsificações
+- Identificar as cédulas mais falsificadas
+- Identificar os estados com mais incidência de falsificações
+- Estimar para os próximos anos a incidência de falsificações
 
 ## Indagações a serem respondidas pela análise exploratória dos dados
 
-1. Qual a quantidade/percentual de reclamações por estado?
-2. Qual a quantidade/percentual de reclamações por sexo?
-3. Qual a quantidade/percentual de reclamações por faixa etária?
-4. Qual a quantidade/percentual das reclamações por sexo/faixa etária?
-5. Quais os meios utilizados para aquisição/contratação de produtos/serviços reclamados?
-6. Quais os produtos/serviços que são o assunto das reclamações?
-7. Qual a quantidade/percentual dos grupos de problemas apontados pelo consumidor?
-8. Qual a distribuição dos grupos de problemas entre os três maiores produtos/serviços alvo de reclamações?
-9. Qual a quantidade/percentual de dias entre abertura de reclamações válidas e resposta?
-10. Quais as notas do consumidor atribuídas ao atendimento da empresa?
-11. Qual a relação entre dias para resposta e avaliação do consumidor?
-12. Qual a quantidade/percentual das reclamações resolvidas, não resolvidas, não avaliadas e canceladas/encerradas?
-13. Qual o número/percentual de recusa de reclamações avaliadas como procedentes e improcedentes?
+1. Qual a quantidade/percentual de falsificações por cédula?
+2. Qual a quantidade/percentual de falsificações por cédula?
+3. Qual a quantidade/percentual de falsificações por ano?
+4. Qual a quantidade/percentual de falsificações por ano?
+5. Qual a quantidade/percentual de falsificações por cédula/ano?
+6. Qual a quantidade/percentual de falsificações por cédula/ano?
+7. Qual a estimativa de falsificações por cédula/ano (2021 e 2022)?
+8. Qual a estimativa de falsificações por cédula/ano (2021 e 2022)?
 
 ## Tecnologias
 

@@ -24,7 +24,6 @@ Projeto de análise de falsificação de cédulas de Real (R$) desde 1995 até 2
 
 - Python
     - Biblioteca Pandas
-    - Biblioteca Glob
     - Biblioteca Matplotlib
     - Biblioteca Seaborn
 

@@ -25,6 +25,10 @@ Projeto de análise de falsificação de cédulas de Real (R$) com base nos dado
     - Biblioteca Pandas
     - Biblioteca Matplotlib
     - Biblioteca Seaborn
+    - Biblioteca Numpy
+    - Biblioteca Statsmodels
+    - Biblioteca Warnings
+    - Biblioteca Pmdarima
 
 ## 💳 Créditos
 

@@ -7,6 +7,7 @@ Projeto de análise de falsificação de cédulas de Real (R$) com base nos dado
 - Demonstrar a evolução das falsificações
 - Identificar as cédulas mais falsificadas
 - Identificar os estados com mais incidência de falsificações
+- Criação de um dashboard
 
 ## ❓ Indagações a serem respondidas pela análise exploratória dos dados
 
@@ -23,6 +24,7 @@ Projeto de análise de falsificação de cédulas de Real (R$) com base nos dado
     - Biblioteca Seaborn
     - Biblioteca Numpy
     - Biblioteca Warnings
+- Power BI
 
 ## 💳 Créditos
 
